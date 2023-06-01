@@ -51,8 +51,6 @@ Before starting developing your app, you need to prepare your dev machine.
 
 First, create a folder named `personal-finance-demo` and navigate to it.
 
-Then, create a new solution using the following command:
-
 Inside it create a folder called `src` where you'll add your dotnet projects.
 
 Finally, on root folder, create a file named `nuget.config` with the following content:
