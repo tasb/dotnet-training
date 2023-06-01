@@ -123,7 +123,7 @@ Resources to be created:
   - Add a constructor
     - Receives the currency and set the property
     - Call an abstract method named `GenerateExchangeRates`to be implemented on derived classes to generate the exchange rates
-- Two classes named `EuroExchangeRateCalculator`and `USDExchangeRateCalculator` that inherits from `ExchangeRateCalculatorBase` and implements the `GenerateExchangeRates` method
+- Three classes named `EuroExchangeRateCalculator`and `USDExchangeRateCalculator` that inherits from `ExchangeRateCalculatorBase` and implements the `GenerateExchangeRates` method
   - `EuroExchangeRateCalculator` should have the following rates:
     - USD: 1.18
     - GBP: 0.85
