@@ -1,0 +1,29 @@
+GET http://localhost:5400/todo
+
+###
+
+GET http://localhost:5400/todo/1
+
+###
+
+POST http://localhost:5400/todo
+Content-Type: application/json
+
+{
+    "Name": "Learn ASP Authn/Authz",
+    "IsComplete": false
+}
+
+###
+
+PUT http://localhost:5400/todo/2
+Content-Type: application/json
+
+{
+    "Name": "Learn ASP.NET Core",
+    "IsComplete": true
+}
+
+###
+
+DELETE http://localhost:5400/todo/3

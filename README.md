@@ -23,6 +23,7 @@ Get access to the labs used during sessions.
 
 1. [Prepare your dev machine](labs/lab01.md)
 2. [Build your first app](labs/lab02.md)
+3. [Build your first API](labs/lab03.md)
 
 ## Slides
 
@@ -30,6 +31,7 @@ Get access to the content used during sessions.
 
 1. [Intro 2 .NET](slides/01.intro-to-dotnet.pdf)
 2. [.NET Basics using C#](slides/02.dotnet-basics.pdf)
+3. [ASP.NET: Using Web libraries](slides/03.aspnet.pdf)
 
 ## Feedback
 
