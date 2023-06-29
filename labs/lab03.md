@@ -1,4 +1,4 @@
-# Lab 02 - Build your first API
+# Lab 03 - Build your first API
 
 On this lab you will create your first WebAPI using .NET 7.0. You will learn how to use the new minimal API and how to use the new dependency injection system.
 

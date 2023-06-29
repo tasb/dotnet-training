@@ -10,8 +10,8 @@ public class Program
         var builder = WebApplication.CreateBuilder(args);
 
         builder.Services.AddControllers();
-        builder.Services.AddScoped<IGenerateMessage, GoodbyeMessage>();
-        // builder.Services.AddScoped<IGenerateMessage, GreetMessage>();
+        //builder.Services.AddScoped<IGenerateMessage, GoodbyeMessage>();
+        builder.Services.AddScoped<IGenerateMessage, GreetMessage>();
 
         var app = builder.Build();
 
