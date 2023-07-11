@@ -25,6 +25,7 @@ Get access to the labs used during sessions.
 2. [Build your first app](labs/lab02.md)
 3. [Build your first API](labs/lab03.md)
 4. [Connect your API to SQL database](labs/lab04.md)
+5. [Run Unit Tests on your WebAPI](labs/lab05.md)
 
 ## Slides
 
@@ -34,6 +35,7 @@ Get access to the content used during sessions.
 2. [.NET Basics using C#](slides/02.dotnet-basics.pdf)
 3. [ASP.NET: Using Web libraries](slides/03.aspnet.pdf)
 4. [Entity Framework Core: ORM on .NET](slides/04.efcore.pdf)
+5. [Unit testing on .NET](slides/05.unit-testing.pdf)
 
 ## Feedback
 

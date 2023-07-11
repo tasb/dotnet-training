@@ -43,7 +43,7 @@ To run migration, you need to have installed the [dotnet-ef tool](https://docs.m
 
 You can use this [TodoList sample](https://github.com/tasb/dotnet-training/tree/main/demos/04.efcore/todo-sample) to help you on this lab.
 
-Finally, you may use your code from last lab but if you prefer, you can start from the code present on last session from [Lab 03](https://github.com/theonorg/training-personal-finance/tree/lab03). 
+Finally, you may use your code from last lab but if you prefer, you can start from the code present on last session from [Lab 03](https://github.com/theonorg/training-personal-finance/tree/lab03).
 
 ### Add packages to your code
 
