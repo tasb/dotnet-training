@@ -33,7 +33,10 @@ dotnet tool install -g dotnet-reportgenerator-globaltool
 
 Now you have it available on your console.
 
-You can use this [Echo APP sample](https://github.com/theonorg/echo-api) to help you on this lab.
+You can use these examples to help you on this lab:
+
+- [AssetsService.API.Tests](https://github.com/theonorg/myfinance-pal/tree/main/src/Services/AssetsService/AssetsService.API.Tests)
+- [Echo APP sample](https://github.com/theonorg/echo-api)
 
 Finally, you may use your code from last lab but if you prefer, you can start from the code present on last session from [Lab 04](https://github.com/theonorg/training-personal-finance/tree/lab04).
 
